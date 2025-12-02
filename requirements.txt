@@ -1,0 +1,5 @@
+asgiref==3.11.0
+# Editable install with no version control (Django==6.1.dev20251202143011)
+-e c:\users\henry\documents\django-app\django\django
+sqlparse==0.5.4
+tzdata==2025.2
